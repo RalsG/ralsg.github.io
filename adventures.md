@@ -14,6 +14,8 @@ Aurora viewed from near Moscow, ID
 <div style="display: flex; gap: 12px; align-items: flex-start;">
 <img src="/assets/beartooth_mtn_pass.jpeg" alt="View from a pass at the mountains we came up past" style="width: calc(50% - 6px); height: auto;" />
 <img src="/assets/big_aero_lake.jpeg" alt="Lower Aero Lake." style="width: calc(50% - 6px); height: auto;" />
+</div>
+<div style="display: flex; gap: 12px; align-items: flex-start;">
 <img src="/assets/granite_peak_creek.jpeg" alt="A creek crossed while pushing to our campsite" style="width: calc(50% - 6px); height: auto;" />
 <img src="/assets/imposing_foggy_granite_peak.jpeg" alt="The giant herself, shrouded by clouds. Going up that valley at 4am was fun" style="width: calc(50% - 6px); height: auto;" />
 </div>
@@ -23,8 +25,8 @@ Views while attempting a summit of Granite Peak - Montana's tallest point. We en
 <div style="display: flex; gap: 12px; align-items: flex-start;">
 <img src="/assets/climbing_cigar_tensleep.jpeg" alt="Up on the Cigar (Yes my belayer took this, but I had a a short personal anchor cord)" style="width: calc(50% - 6px); height: auto;" />
 <img src="/assets/ralston_WY.jpeg" alt="Ralston, Wyoming" style="width: calc(50% - 6px); height: auto;" />
-Climbing "The Cigar" in Tensleep Canyon, Wyoming. You'll notice my belayer really left me hanging to take this photo. Went by a cool town on the way.
 </div>
+Climbing "The Cigar" in Tensleep Canyon, Wyoming. You'll notice my belayer really left me hanging to take this photo. Went by a cool town on the way.
 <br><br><br>
 
 <div style="display: flex; gap: 12px; align-items: flex-start;">
