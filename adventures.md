@@ -14,6 +14,8 @@ Aurora viewed from near Moscow, ID
 <div style="display: flex; gap: 12px; align-items: flex-start;">
 <img src="/assets/beartooth_mtn_pass.jpeg" alt="View from a pass at the mountains we came up past" style="width: calc(50% - 6px); height: auto;" />
 <img src="/assets/big_aero_lake.jpeg" alt="Lower Aero Lake." style="width: calc(50% - 6px); height: auto;" />
+<div/>
+<div style="display: flex; gap: 12px; align-items: flex-start;">
 <img src="/assets/granite_peak_creek.jpeg" alt="A creek crossed while pushing to our campsite" style="width: calc(50% - 6px); height: auto;" />
 <img src="/assets/imposing_foggy_granite_peak.jpeg" alt="The giant herself, shrouded by clouds. Going up that valley at 4am was fun" style="width: calc(50% - 6px); height: auto;" />
 <div/>
