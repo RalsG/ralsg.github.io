@@ -23,9 +23,10 @@ To inquire about personal coaching and/or training plans for all experience and 
 </div>
 -->
 
-<img src="/assets/dying_after_regionals.png"
-      alt="sometimes I wonder why I do this"
-      style="width: 350px; height: auto;">
 ### Track PRs
 5K: 14:40 \\
 10K: 30:31
+
+<img src="/assets/dying_after_regionals.png"
+  alt="sometimes I wonder why I do this"
+  style="width: 350px; height: auto;">
