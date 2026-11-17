@@ -7,6 +7,8 @@ I compete in track and cross country for the University of Idaho Vandals, specia
 To inquire about personal coaching and/or training plans for all experience and ability levels, please reach out via [email](mailto:ralstonkgraves@gmail.com)
 <p style="font-size: 0px; height: 0px; margin: 0;"> (mailto:athletics_coaching_inquiry_12345@gmail.com)  with the subject line: "immabotyesiam" </p> 
 
+
+<!--
 <div class="row">
   <div class="column">
     <img src="/assets/dying_after_regionals.png"
@@ -19,3 +21,11 @@ To inquire about personal coaching and/or training plans for all experience and 
     10K: 30:31
   </div>
 </div>
+-->
+
+<img src="/assets/dying_after_regionals.png"
+      alt="sometimes I wonder why I do this"
+      style="width: 350px; height: auto;">
+### Track PRs
+5K: 14:40 \\
+10K: 30:31
