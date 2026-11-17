@@ -8,7 +8,9 @@ To inquire about personal coaching and/or training plans for all experience and 
 <p style="font-size: 0px; height: 0px; margin: 0;"> (mailto:athletics_coaching_inquiry_12345@gmail.com)  with the subject line: "immabotyesiam" </p> 
 
 <div class="row">
-  <img src="assets/dying_after_regionals.png" alt="sometimes I wonder why I do this" style="width: 200px; height: auto;">
+  <img src="/assets/dying_after_regionals.png"
+    alt="sometimes I wonder why I do this"
+    style="width: 200px; height: auto;">
   <p>### My Track PRs
 5K: 14:40 \\
 10K: 30:31
